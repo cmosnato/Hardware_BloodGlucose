@@ -47,19 +47,16 @@ float bat_volte;
 // Provide the RTDB payload printing info and other helper functions.
 #include <addons/RTDBHelper.h>
 
-// // Insert Authorized Email and Corresponding Password
-// #define USER_EMAIL "bloodglucose2024@gmail.com"
-// #define USER_PASSWORD "adminbloodglucose
 
 /* 2. Define the API Key */
-#define API_KEY "AIzaSyBBNbmbzWOdiipMo3Yj1EyakYMdUz1s9VM"
+#define API_KEY "------------------------------------------"
 
 /* 3. Define the RTDB URL */
-#define DATABASE_URL "https://blood-glucose2-default-rtdb.firebaseio.com/"  //<databaseName>.firebaseio.com or <databaseName>.<region>.firebasedatabase.app
+#define DATABASE_URL "---------------------------------/"  //<databaseName>.firebaseio.com or <databaseName>.<region>.firebasedatabase.app
 
 /* 4. Define the user Email and password that alreadey registerd or added in your project */
 #define USER_EMAIL "cmoscmark@gmail.com"
-#define USER_PASSWORD "cmos1234"
+#define USER_PASSWORD "--------------------------"
 
 // Define Firebase objects
 FirebaseData fbdo;
